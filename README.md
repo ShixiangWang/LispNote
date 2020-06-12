@@ -1,2 +1,6 @@
 # LispNote
-Lisp Note: understand the computation
+
+**Lisp note to understand the computation**.
+
+
+
